@@ -27,7 +27,7 @@ namespace Domaci_2
 
             foreach(Student studenti in Studenti)
             {
-        Console.WriteLine("{0} {1} {2}", studenti.Name, studenti.IdNumber, studenti.Department);
+        Console.WriteLine("{0} {1} {2}", studenti.Name, studenti.IdNumber, studenti.Department.Title);
             }
             
         }
