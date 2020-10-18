@@ -1,2 +1,0 @@
-# csharp-debugging-example
- primer
