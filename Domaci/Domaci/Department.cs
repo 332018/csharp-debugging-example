@@ -7,16 +7,16 @@ namespace Domaci_2
     class Department
     {
         public String Title;
-        public String Code;
+        public String Code = "Nema smera!";
 
-        public Department()
+        public Department(string Code)
         {
-            if (Code == "IT")
+            if (Code.Equals("IT") || Code.Equals("it"))
                 Title = "Informacione Tehnologije";
-            else if (Code == "RI")
+            else if (Code.Equals("RI") || Code.Equals("ri"))
                 Title = "Racunarska Tehnika";
             else
-                Title = "Nista od navedenog";
+                Title = "Nema smera!";
         }
     }
 }
