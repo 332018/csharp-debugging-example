@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domaci", "Domaci\Domaci.csproj", "{B17AA622-6CF3-4C95-BD18-185C297F4DDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B17AA622-6CF3-4C95-BD18-185C297F4DDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B17AA622-6CF3-4C95-BD18-185C297F4DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B17AA622-6CF3-4C95-BD18-185C297F4DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B17AA622-6CF3-4C95-BD18-185C297F4DDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58AD3838-7BD0-465C-9850-A8A59D296700}
+	EndGlobalSection
+EndGlobal
